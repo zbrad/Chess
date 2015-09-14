@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PieceBitboardsLib", "PieceBitboardsLib.csproj", "{32328F89-7A73-493A-A944-D6CFBA8D5D6F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PieceTypesLib", "..\PieceTypesLib\PieceTypesLib.csproj", "{1E217632-74EE-447F-B103-FF7E94E2F3F8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{32328F89-7A73-493A-A944-D6CFBA8D5D6F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32328F89-7A73-493A-A944-D6CFBA8D5D6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32328F89-7A73-493A-A944-D6CFBA8D5D6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32328F89-7A73-493A-A944-D6CFBA8D5D6F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E217632-74EE-447F-B103-FF7E94E2F3F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E217632-74EE-447F-B103-FF7E94E2F3F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E217632-74EE-447F-B103-FF7E94E2F3F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E217632-74EE-447F-B103-FF7E94E2F3F8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
